@@ -1,4 +1,4 @@
 <?php 
-echo "Testing after adding ssh url";
+echo "Testing after adding ru";
 
 ?>
